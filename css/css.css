@@ -1,0 +1,121 @@
+@charset "utf-8";
+*{padding:0;margin:0;font-family: "微软雅黑";}
+body{
+font-family:Verdana, Arial, Helvetica, sans-serif,"微软雅黑";}
+a{text-decoration:none;}
+ul{list-style:none;}
+li{list-style-type:none;}
+.most_1{width:1000px;margin:0px auto;}
+.R{float: right;}
+.L{float: left;}
+.qingchu{clear: both;}
+/***********  top   *********/
+.top_div{height:88px;background-color: #033da7;}
+.logoimg{width: 169px;padding-top: 12px;}
+.top{padding-top: 40px;}
+.top li{float:left;font-size: 14px;color: #FFFFFF;margin-right: 10px;} 
+.top li a{color: #FFFFFF;text-decoration: none;}
+.bg{background-image: url(../img/bg.jpg);background-repeat: no-repeat;background-position: center;height: 478px;}
+/**************************/
+.lum{height:47px;margin-top: 25px;
+    margin-bottom: 20px;
+    background-image: url(../img/heng_1.png);
+    background-repeat:no-repeat;}
+.lum_biao{font-size: 27px;font-weight: bold;color: #FFFFFF;padding-top: 6px;}
+.jieshao_wz{width:655px;font-size: 14px;line-height: 24px;color: #555555;}
+.jieshao_img{border-radius: 10px;background-color: #ff720a;height: 150px;width: 330px;margin-left: 15px;}
+/**********************/
+.you_bg{height: 490px;background-image: url(../img/youshi.png);background-repeat: no-repeat;background-position: center center;}
+.you_bg2{height: 490px;background-image: url(../img/vip.png);background-repeat: no-repeat;background-position: center center;}
+.you_b1{font-size: 14px;color: #333333;line-height: 23px;}
+.you_d1{width:370px;margin-top: 25px;}
+.you_d2{width: 340px;}
+.you_d3{width: 300px;}
+.you_d4{width: 280px;}
+.b2{margin-top: 35px;}
+.you_d5{width: 285px;}
+.you_d6{width: 270px;margin-top: 20px;}
+.b3{margin-top: 40px;}
+.you_d7{width: 300px;}
+.you_d8{width: 300px;}
+.b4{margin-top: 50px;}
+/******************************/
+.ke_table{font-size: 14px;line-height: 22px;color: #555555;}
+.ke_table_td{width:375px;}
+.ke_a{margin-top: 20px;line-height: 24px;}
+.ke_b{font-size: 14px;font-weight: bold;color: #ff720a;}
+/************************/
+.vip_table{font-size: 14px;color: #333333;}
+/******************/
+.youxiu_bg1{background-image: url(../img/youxiu_1.png);height: 142px;width: 1000px;margin-bottom: 20px;}
+.youxiu_l{width: 820px;margin-right: 20px;color: #FFFFFF;}
+.youxiu_2{width: 820px;color: #FFFFFF;margin-left: 20px;}
+.youxiu_biao{font-size: 18px;font-weight: bold;margin-bottom: 15px;margin-top: 15px;}
+.youxiu_wz{font-size: 14px;line-height: 23pxline-height: 24px;line-height: 24px;}
+.youxiu_bg2{background-image: url(../img/youxiu_2.png);height: 142px;width: 1000px;margin-bottom: 20px;background-repeat: no-repeat;}
+.youxiu_bg3{background-image: url(../img/youxiu_3.png);height: 142px;width: 1000px;margin-bottom: 20px;}
+.youxiu_bg4{background-image: url(../img/youxiu_4.png);height: 142px;width: 1000px;margin-bottom: 20px;background-repeat: no-repeat;}
+/***********************/
+.baoming_wz{font-size: 14px;line-height: 23px;color: #555555;margin-bottom: 30px;}
+.ditu_bg{background-image: url(../img/ditu.jpg);background-repeat: no-repeat;background-position: center;height: 370px;}
+.lianxi{background-color: #033da7;width: 620px;height: 370px;}
+.lianxi_wz{font-size: 14px;color: #FFFFFF;padding-top: 20px;padding-left: 40px;}
+.lianxi_wz1{font-size: 18px;margin-right: 10px;margin-bottom: 10px;}
+.lianxi_wz2{margin-top: 10px;line-height: 22px;}
+.dibu{height: 45px;color: #cccccc;background-color: #1a1a1a;}
+.dibu_wz{text-align: center;padding-top: 10px;}
+.zhanwei{width: 1000px;height: 8px;}
+.you-vip{
+    width: 1000px;
+    height: 206px;
+    overflow: hidden;
+    zoom: 1;
+    background: #fff url("../img/vip.png") 0 0 no-repeat;
+}
+.you-vip-lists{
+    overflow: hidden;
+    zoom: 1;
+    width: 1010px;
+}
+.vip-list-item{
+    width: 101px;
+    box-sizing: border-box;
+    padding: 12px 5px 0;
+    color: #fff;
+    font-family: 微软雅黑;
+    line-height: 20px;
+    float: left;
+    text-align: center;
+    font-size: 14px;
+    margin-right: 11px;
+}
+.vip-list-item.teshu{margin-right: 13px}
+.ke-table_head{
+    height: 44px;
+    background-color: #FFF1E7;
+    color: ff720a;
+    text-align: center;
+    line-height:44px;
+    font-size: 18px;
+}
+.ke-tr{
+    height: 36px;
+    line-height:36px;
+    font-size: 14px;
+}
+.ke-td-1{
+    width: 280px;
+}
+.ke-td-2{
+    width: 160px;
+}
+.ke-td-1{
+     width: 100px;
+ }
+.ke-td-1{
+    width: 260px;
+}
+.ke-body{
+    background-color: #fff;
+    text-align: center;
+}
