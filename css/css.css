@@ -283,8 +283,38 @@ table{
     background-color: rgba(0,0,0,0.6);
     width:617px;
     height:370px;
+    background-color: #000\9;
+    filter:alpha(opactity=60)\9;
 }
 .list2-most2{
     width:1000px;
     margin:0 auto;
 }
+
+.face-to-lists{
+    width: 1014px;
+    background: #fff url("../img/renqun.png") 0 0 no-repeat;
+    height:184px;
+    overflow: hidden;
+}
+.face-to-item{
+    width:239px;
+    height:36px;
+    font-size: 16px;
+    color: #fff;
+    line-height:36px;
+    text-align: center;
+    margin-right: 14px;
+    margin-bottom: 111px;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
