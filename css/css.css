@@ -222,14 +222,13 @@ table{
     color: #ff720a;
     font-weight: bold;
 }
-
-
 .mingshi{
     overflow: hidden;
     zoom: 1;
+    width:956px;
 }
 .mingshi-kemu{
-    width:915px;
+    width:900px;
     height:40px;
     padding-left: 15px;
     background-color: #114fc1;
@@ -241,6 +240,14 @@ table{
     font:normal 18px/40px 微软雅黑;
     color: #fff;
 }
+
+.mingshijieshao{
+    width:438px;
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    min-height:170px;
+}
 .jieshao-img{
     width:127px;
     overflow: hidden;
@@ -250,13 +257,34 @@ table{
 .jieshao-img>img{
     width:127px;
     height:127px;
-    margin-bottom: 5px;
+    margin-bottom: 2px;
 }
 .jieshao-img>h3{
     height:26px;
     padding-left:14px;
     color: #fff;
-    font-size: 14px;
+    font:14px/26px 微软雅黑;
     background-color: #ff720a;
 }
-
+.jieshao-wenzi{
+    width:300px;
+    float: left;
+    font:14px/20px 微软雅黑;
+}
+.page-squ>div.ad-1{
+    margin-bottom: 20px;
+}
+.list-lianxi-2{
+    width: 915px;
+    margin: 0 auto;
+    background-color: inherit;
+}
+.list-lianxi-2 .lianxi_wz{
+    background-color: rgba(0,0,0,0.6);
+    width:617px;
+    height:370px;
+}
+.list2-most2{
+    width:1000px;
+    margin:0 auto;
+}
