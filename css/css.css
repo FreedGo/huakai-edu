@@ -98,7 +98,7 @@ li{list-style-type:none;}
 .ke-table_head{
     height: 44px;
     background-color: #FFF1E7;
-    color: ff720a;
+    color: #ff720a;
     text-align: center;
     line-height:44px;
     font-size: 18px;
@@ -135,6 +135,7 @@ li{list-style-type:none;}
     overflow: hidden;
     zoom: 1;
     padding-top: 50px;
+    padding-bottom: 50px;
 }
 .page-squ .lum{
     margin-bottom: 28px;
@@ -197,3 +198,65 @@ li{list-style-type:none;}
     font:14px/20px 微软雅黑;
     color: #555555;
 }
+.lk-td-1{
+    width:90px;
+}
+.lk-td-2{
+    width:142px;
+}
+.lk-td-3{
+     width:158px;
+ }
+.lk-td-4{
+      width:96px;
+  }
+.lk-td-5{
+    width:424px;}
+table{
+    border:none;
+}
+.youhuizhengce{
+    padding: 10px 0;
+}
+.youhui-head{
+    color: #ff720a;
+    font-weight: bold;
+}
+
+
+.mingshi{
+    overflow: hidden;
+    zoom: 1;
+}
+.mingshi-kemu{
+    width:915px;
+    height:40px;
+    padding-left: 15px;
+    background-color: #114fc1;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    float: left;
+}
+.mingshi-kemu h2{
+    font:normal 18px/40px 微软雅黑;
+    color: #fff;
+}
+.jieshao-img{
+    width:127px;
+    overflow: hidden;
+    float: left;
+    margin-right: 10px;
+}
+.jieshao-img>img{
+    width:127px;
+    height:127px;
+    margin-bottom: 5px;
+}
+.jieshao-img>h3{
+    height:26px;
+    padding-left:14px;
+    color: #fff;
+    font-size: 14px;
+    background-color: #ff720a;
+}
+
